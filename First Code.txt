@@ -1,3 +1,42 @@
 Hello, I'm Gabriel Almeida, welcome!
 
 I'm a studant.
+
+
+
+
+git init - inicializa um novo repositório
+
+git add . - adiciona os arquivos atuais ao próximo commit
+
+git status - verificar o status atual dos repositórios git
+
+git commit -m "" - cria um novo commit com uma mensagem
+
+git push - envia as atualização para a nuvem na branch atualmente ativa
+
+git branch - permite listar e ver qual branch está ativa atualmente
+
+git checkout nome da branch - permite mudar para outra branch
+
+git checkout -b "nome da branch de origem" "nome da branch nova" - permite criar e mudar para uma nova branch
+
+git merge "branch que vai receber" - permitte fazer o merge da branch ativa para outra branch
+
+git pull - atualiza a branch atualmente ativa
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
