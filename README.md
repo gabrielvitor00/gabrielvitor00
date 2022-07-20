@@ -1,10 +1,4 @@
 ### 👋 Hi there. Welcome to my profile!
-### 👨‍🎓 Always studing.
-### 📚 Java
-### 📚 C Sharp
-### 📚 Python
-### 📚 JavaScript 
-### 📚 MySQL
 
 ##
 <div align="center">
