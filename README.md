@@ -8,9 +8,7 @@
   </div>
 <div style="display: inline_block"><br> 
 
-<img align="center" alt="Rafa-Js" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" />
-<img align="center" alt="Rafa-Js" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="center" alt="Rafa-Js" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+
 <img align="center" alt="Rafa-Js" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg" />
 <img align="center" alt="Rafa-Js" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
 
@@ -26,6 +24,8 @@
   
 </div>
   
+
+
   
 
 
